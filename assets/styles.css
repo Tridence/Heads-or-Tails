@@ -1,0 +1,57 @@
+/*Here we are going to style the whole game*/
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-size: 40px;
+  
+  }
+  li{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+  }
+  /*html {
+    background-image: url("/assets/images/both.png");
+    background-size: cover;
+    position: relative;
+  }*/
+  body {
+    background-color: rgb(253, 253, 253);
+    font-family:sans-serif;
+  }
+
+
+  div {
+    text-align: center;
+    font-size: 30px;
+  
+  }
+  
+  button:hover
+  {
+  background-color: rgb(79, 79, 79);
+  }
+  button:active{
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  button {
+    background-color: #7b7b7b;
+    border: none;
+    color: #fff;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    border-radius: 15px;
+    cursor: pointer;
+    outline: none;
+  
+    
+  }
+  h1{
+    text-decoration: antiquewhite;
+    
+  }
